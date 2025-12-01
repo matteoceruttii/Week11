@@ -1,6 +1,6 @@
 import flet as ft
 
-
+# classe View
 class View():
     def __init__(self, page: ft.Page):
         super().__init__()
